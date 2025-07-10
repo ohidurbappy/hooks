@@ -3,6 +3,7 @@
   "version": "0.0.8",
   "description": "A collection of reusable react hooks",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "start": "tsc && node dist/index.js",
     "build": "tsc",
