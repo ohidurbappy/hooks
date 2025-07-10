@@ -1,13 +1,13 @@
 {
   "name": "@snipplets/hooks",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "A collection of reusable react hooks",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "start": "tsc && node dist/index.js",
     "build": "tsc",
-    "publish-now":"npm version patch && npm run build && npm publish --access public",
+    "publish-now": "npm version patch && npm run build && npm publish --access public",
     "lint": "eslint . --ext .ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
