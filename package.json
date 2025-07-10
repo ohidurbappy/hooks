@@ -1,6 +1,6 @@
 {
   "name": "@snipplets/hooks",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A collection of reusable react hooks",
   "main": "dist/index.js",
   "scripts": {
